@@ -7,6 +7,11 @@
 ```
 Language translator (Python to java and vice versa)
 
+Tools:
++ Figma (UI Design)
++ VS Code (Development)
++ Github (Version control)
+
 Frontend:
 + React
 + Bootstrap
