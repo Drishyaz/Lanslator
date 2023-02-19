@@ -13,11 +13,11 @@ Tools:
 + Github (Version control)
 
 Frontend:
-+ React
++ React / Pyscript
 + Bootstrap
 
 Backend:
-+ Node.js
++ Node.js / Python Django / Python Flask
 
 Read on:
 + Lexical analysis
