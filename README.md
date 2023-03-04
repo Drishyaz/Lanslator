@@ -1,5 +1,5 @@
 # project-major
- Final semester MCA project
+Final semester MCA project
 
 ### Project topic -> Lanslator 
 
@@ -13,25 +13,44 @@ Tools:
 + Github (Version control)
 
 Frontend:
-+ React / Pyscript
-+ Bootstrap
++ PyQt / PySimpleGUI
 
 Backend:
-+ Node.js / Python Django / Python Flask
++ Python
++ PyInstaller (for packaging the app into an exe file)
 
 Read on:
 + Lexical analysis
 + Syntax analysis
 + Syntax highlighting
 + Syntax parsing
-+ React development
-```
-App interface design:
-- [ ] Design the app interface (HOME page)
-- [ ] Design the app interface (WORKING page)
-- [ ] Design the app interface (LOGIN page)
++ PyQt / PySimpleGUI Development
++ Tokenization / Parsing
++ Building a parser from scratch
++ Decompiling an AST
 
-Frontend Development:
+```
+Create Mockups:
+- [ ] Signup page
 - [ ] Login page
 - [ ] Home page
 - [ ] Working page
+
+App interface design:
+- [ ] Signup page
+- [ ] Login page
+- [ ] Home page
+- [ ] Working page
+
+Documentation work
+- [ ] Make a documentation including the research
+- [ ] Make a ppt
+
+Frontend Development:
+- [ ] Signup page
+- [ ] Login page
+- [ ] Home page
+- [ ] Working page
+
+Backend Development: (Actual App Logic)
+- [ ] Tokenizer (Token extractor / parser)
