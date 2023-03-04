@@ -35,8 +35,9 @@ Create Mockups:
 - [ ] Login page
 - [ ] Home page
 - [ ] Working page
+- [ ] Design a Logo
 
-App interface design:
+Frontend Development:
 - [ ] Signup page
 - [ ] Login page
 - [ ] Home page
@@ -45,12 +46,6 @@ App interface design:
 Documentation work
 - [ ] Make a documentation including the research
 - [ ] Make a ppt
-
-Frontend Development:
-- [ ] Signup page
-- [ ] Login page
-- [ ] Home page
-- [ ] Working page
 
 Backend Development: (Actual App Logic)
 - [ ] Tokenizer (Token extractor / parser)
