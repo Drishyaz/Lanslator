@@ -31,21 +31,18 @@ Read on:
 
 ```
 Create Mockups:
-- [+] Signup page
-- [ ] Login page
-- [ ] Home page
-- [ ] Working page
+- [x] Signup page
+- [x] Login page
+- [x] Main page
 - [ ] Design a Logo
 
 Frontend Development:
 - [ ] Signup page
 - [ ] Login page
-- [ ] Home page
-- [ ] Working page
+- [x] Main page
 
 Documentation work
 - [ ] Make a documentation including the research
-- [ ] Make a ppt
 
 Backend Development: (Actual App Logic)
 - [ ] Tokenizer (Token extractor / parser)
