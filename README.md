@@ -13,7 +13,7 @@ Tools:
 + Github (Version control)
 
 Frontend:
-+ PyQt / PySimpleGUI
++ PySimpleGUI
 
 Backend:
 + Python
@@ -24,14 +24,14 @@ Read on:
 + Syntax analysis
 + Syntax highlighting
 + Syntax parsing
-+ PyQt / PySimpleGUI Development
++ PySimpleGUI Development
 + Tokenization / Parsing
 + Building a parser from scratch
 + Decompiling an AST
 
 ```
 Create Mockups:
-- [ ] Signup page
+- [+] Signup page
 - [ ] Login page
 - [ ] Home page
 - [ ] Working page
