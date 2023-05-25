@@ -2,6 +2,7 @@ import PySimpleGUI as pg
 import os
 import compiler_api as comp
 from sys import *
+#import lexer as l
 import parser_1 as p
 
 def font_window() :
@@ -187,7 +188,7 @@ while True:
 
     elif event == 'Translate':
         source_code = values['-IN-']
-        #parse(code)
+        #l.parse(code)
         target_code = p.main(source_code)
         window['-OUT-'].update(target_code)
 
