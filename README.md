@@ -17,6 +17,7 @@ Frontend:
 
 Backend:
 + Python
++ Lark
 + PyInstaller (for packaging the app into an exe file)
 
 Read on:
@@ -31,18 +32,15 @@ Read on:
 
 ```
 Create Mockups:
-- [x] Signup page
-- [x] Login page
 - [x] Main page
 - [ ] Design a Logo
 
 Frontend Development:
-- [ ] Signup page
-- [ ] Login page
 - [x] Main page
 
 Documentation work
-- [ ] Make a documentation including the research
+- [x] Make a documentation including the research
 
 Backend Development: (Actual App Logic)
-- [ ] Tokenizer (Token extractor / parser)
+- [x] Tokenizer (Token extractor / parser)
+- [x] Parser (parses and creates AST) 
