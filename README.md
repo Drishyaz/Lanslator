@@ -29,18 +29,18 @@ Read on:
 + Tokenization / Parsing
 + Building a parser from scratch
 + Decompiling an AST
-
 ```
-Create Mockups:
-- [x] Main page
-- [ ] Design a Logo
 
-Frontend Development:
-- [x] Main page
+#### Instructions:
 
-Documentation work
-- [x] Make a documentation including the research
-
-Backend Development: (Actual App Logic)
-- [x] Tokenizer (Token extractor / parser)
-- [x] Parser (parses and creates AST) 
+1. Download the source files in your device.
+2. Download the required modules like lark,requests and PySimpleGUI. Follow the steps to install them in your system.
+   Lark module
+  ```pip install lark```
+   requests module
+  ```pip install requests```
+   PySimpleGUI library
+  ```pip install PySimpleGUI```
+3. Open your command prompt or terminal, change your dircetory to the current directory your downloaded files are in, the type the following:
+   ```python home.py```
+   
