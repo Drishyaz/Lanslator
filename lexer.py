@@ -37,30 +37,6 @@ def lexer(contents):
             else:
                 in_quotes = True
 
-            '''# CHECK IF IT IS WITHIN () OR NOT
-            if char == '(' or char == ')':
-                brac_count += 1
-            if brac_count % 2 == 0:
-                in_bracs = False
-            else:
-                in_bracs = True
-
-            # CHECK IF IT IS WITHIN {} OR NOT
-            if char == '{' or char == '}':
-                brac_count += 1
-            if brac_count % 2 == 0:
-                in_bracs = False
-            else:
-                in_bracs = True
-            
-            # CHECK IF IT IS WITHIN [] OR NOT
-            if char == '[' or char == ']':
-                brac_count += 1
-            if brac_count % 2 == 0:
-                in_bracs = False
-            else:
-                in_bracs = True'''
-
             # IF STRING CLOSED AND SPACE ENCOUNTERED THEN ADD STRING TO TOKENS
             if char == " " and in_quotes == False:
                 tokens.append(temp_str)
