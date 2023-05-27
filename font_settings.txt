@@ -1,1 +1,1 @@
-font:Consolas
+font:Arial
