@@ -36,11 +36,11 @@ Read on:
 1. Download the source files in your device.
 2. Download the required modules like lark,requests and PySimpleGUI. Follow the steps to install them in your system.
    Lark module
-  ```pip install lark```
+   ```pip install lark```
    requests module
-  ```pip install requests```
+   ```pip install requests```
    PySimpleGUI library
-  ```pip install PySimpleGUI```
+   ```pip install PySimpleGUI```
 3. Open your command prompt or terminal, change your dircetory to the current directory your downloaded files are in, the type the following:
    ```python home.py```
    
