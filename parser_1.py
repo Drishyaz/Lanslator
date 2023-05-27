@@ -37,21 +37,18 @@ def main(python_code):
 
     grammar = '''start: stmt+
 
-stmt: assign_stmt | print_stmt | input_stmt_str | input_stmt_int | cmnt
+stmt: assign_stmt | print_stmt | input_stmt_str | input_stmt_int
 
 assign_stmt: NAME "=" NUMBER
 print_stmt: "print" "(" STRING ")"
 input_stmt_str: NAME "=" "input" "(" STRING ")"
 input_stmt_int: NAME "=" "int" "(" "input" "(" STRING ")" ")"
-cmnt: "#" /[^\r\n]*/ NEWLINE
 
 NAME: /[a-zA-Z_][a-zA-Z0-9]*/
-FLOAT: /\d+\.\d+/
 STRING: /".*?"/
 NUMBER: /\d+/
 
-%ignore /\s+/
-%ignore cmnt'''
+%ignore /\s+/'''
 
     # Create the parser with your grammar and the custom transformer
     parser = Lark(grammar, parser='lalr', transformer = PythonToJavaTransformer())
