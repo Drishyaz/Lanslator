@@ -1,11 +1,11 @@
-### Topic -> Lanslator
+## Project name -> LANSLATOR
 Final semester MCA project.
 The Lanslator app can convert your Python code to Java code. 
 Can convert only single line codes for now.
 
 Still under development.
 
-##### Technologies and Stack:
+### Technologies and Stack:
 ```
 Language translator (Python code to java code)
 
