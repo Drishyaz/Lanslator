@@ -4,6 +4,11 @@ The Lanslator app can convert your Python code to Java code.
 Can convert only single line codes for now.
 
 Still under development.
+Works with:
++ print (" string")
++ a = int(input(""))
++ a = input("")
++ a = integers
 
 ### Technologies and Stack:
 ```
