@@ -5,12 +5,11 @@ Final semester MCA project
 
 ##### Technologies and Stack:
 ```
-Language translator (Python to java and vice versa)
+Language translator (Python code to java code)
 
 Tools:
 + Figma (UI Design)
 + VS Code (Development)
-+ Github (Version control)
 
 Frontend:
 + PySimpleGUI
@@ -18,7 +17,9 @@ Frontend:
 Backend:
 + Python
 + Lark
-+ PyInstaller (for packaging the app into an exe file)
+
+Packaging:
++ PyInstaller
 
 Read on:
 + Lexical analysis
@@ -31,7 +32,7 @@ Read on:
 + Decompiling an AST
 ```
 
-#### Instructions:
+### Instructions:
 
 1. Download the source files in your device.
 2. Download the required modules like lark,requests and PySimpleGUI. Follow the steps to install them in your system.
