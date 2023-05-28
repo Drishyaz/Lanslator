@@ -43,5 +43,5 @@ Read on:
    PySimpleGUI library
    ```pip install PySimpleGUI```
 3. Open your command prompt or terminal, change your dircetory to the current directory your downloaded files are in, the type the following:
-   ```python home.py```
+   ```python lanslator.py```
    
